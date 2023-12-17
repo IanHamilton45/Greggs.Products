@@ -18,7 +18,7 @@ a go at implementing them. You can use whatever patterns you're used to using or
 whatever patterns you would like to use to achieve the goal. Anyhow, back to the 
 user stories:
 
-### User Story 1
+### User Story 1  **IMPLEMENTED**
 **As a** Greggs Fanatic<br/>
 **I want to** be able to get the latest menu of products rather than the random static products it returns now<br/>
 **So that** I get the most recently available products.
@@ -28,7 +28,7 @@ user stories:
 **When** I hit a specified endpoint to get a list of products<br/>
 **Then** a list or products is returned that uses the data access implementation rather than the static list it current utilises
 
-### User Story 2
+### User Story 2 - **IMPLEMENTED**
 **As a** Greggs Entrepreneur<br/>
 **I want to** get the price of the products returned to me in Euros<br/>
 **So that** I can set up a shop in Europe as part of our expansion
