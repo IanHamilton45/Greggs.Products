@@ -28,7 +28,7 @@ user stories:
 **When** I hit a specified endpoint to get a list of products<br/>
 **Then** a list or products is returned that uses the data access implementation rather than the static list it current utilises
 
-### User Story 2 - **IMPLEMENTED**
+### User Story 2 - **IMPLEMENTED** - I know this currently says 'priceInPounds: ' still. Without changing the Product class, I don't know how i'd change the schema on the fly.
 **As a** Greggs Entrepreneur<br/>
 **I want to** get the price of the products returned to me in Euros<br/>
 **So that** I can set up a shop in Europe as part of our expansion
